@@ -36,7 +36,7 @@ class Builder extends BaseBuilder
      *
      * @var array
      */
-    protected $operators = [
+    public $operators = [
         '=', '<', '>', '<=', '>=', '<>', '!=', '=='
     ];
 
